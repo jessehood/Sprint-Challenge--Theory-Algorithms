@@ -14,12 +14,3 @@ function exercise2a(values = []) {
 
   return max;
 }
-
-/**
- * Exercise 2b
- * @param {Number} n number of floors
- * @param {Number} f floor
- */
-function exercise2b(n, f) {
-
-}
